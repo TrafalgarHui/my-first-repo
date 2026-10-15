@@ -64,9 +64,9 @@
 ### Day 2
 - [x] **A**:283.移动零、11.盛最多水的容器、15.三数之和
 - [ ] **B**:HTTP 基本概念:GET/POST 区别、状态码、常见 Header 字段
-- [ ] **C**:Git 核心命令(init/add/commit/log/diff/status),建个人笔记仓库
+- [x] **C**:Git 核心命令(init/add/commit/log/diff/status),建个人笔记仓库
 - [ ] **检验B**:能不看笔记讲清 GET vs POST、5 个常见状态码
-- [ ] **检验C**:笔记仓库有 ≥3 次 commit,能 `git diff` 看到某次改动
+- [x] **检验C**:笔记仓库有 ≥3 次 commit,能 `git diff` 看到某次改动
 
 ### Day 3
 - [ ] **A**:42.接雨水、3.无重复字符的最长子串、438.找到字符串中所有字母异位词
